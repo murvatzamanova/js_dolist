@@ -13,7 +13,7 @@ body {
 .setir{
 background-color: azure;
 }
-.plus-button {
+.plusBtn {
     background-color: #4CAF50;
     border: none;
     color: white;
@@ -30,7 +30,12 @@ background-color: azure;
     background-color: azure;
 }
 
-.remove-button{
+.saveBtn {
+    background-color: rgb(255, 213, 0);
+    margin-right: 10px;
+}
+
+.removeBtn{
     background-color: red;
     border: none;
     color: white;
@@ -42,6 +47,7 @@ background-color: azure;
     margin: 4px 2px;
     cursor: pointer;   
 }
+
 
 
 
